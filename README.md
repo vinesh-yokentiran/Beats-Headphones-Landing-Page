@@ -4,3 +4,5 @@ Developed a responsive Beats headphone landing page using HTML, CSS and JavaScri
 
 ## Demo
 Click [here](https://vinesh-yokentiran.github.io/Beats-Headphones-Landing-Page/) for a demo of this landing page hosted on Github pages. 
+
+![website preview](/beatspreview.PNG)
